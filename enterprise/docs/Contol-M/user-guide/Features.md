@@ -31,6 +31,7 @@ How to install? Let me know the steps.
 ## Next steps
  
 After installation, continue with the guide.
+Check Installation.
 
 
 > Note
