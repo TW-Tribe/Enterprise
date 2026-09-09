@@ -1,4 +1,4 @@
-name: Deploy Docusaurus to GitHub Pages
+git add .name: Deploy Docusaurus to GitHub Pages
 
 on:
   push:
